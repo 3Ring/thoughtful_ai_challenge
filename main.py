@@ -1,13 +1,3 @@
-"""
-Thoughts:
-  for a simple function like this, my work here is pretty over-engineered.
-  I did it this way to "showcase my proficiency".
-  However, in a real-world scenario, I would have just written the function and moved on.
-  Though a function like this in the real world would much more likely be a method in a class.
-  In that case I would have had logging and error handling in the higher level methods calling this function.
-  and my tests would have more likely focused around that class.
-"""
-
 from typing import Any, Optional
 from constants import Stacks
 
